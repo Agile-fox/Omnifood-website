@@ -1,5 +1,13 @@
 # Omnifood-website
 
-Live-view: https://agile-fox.github.io/Omnifood-website/
+<a href="https://agile-fox.github.io/Omnifood-website/" target="_blank">Live view</a>
 
-<a href="https://agile-fox.github.io/Omnifood-website/" target="_blank">example</a>
+<b>Description<b>
+First website I coded with pure code during online course.
+  
+<b>Used</b>
+-html
+-css
+-js
+-jquery
+-RWD
