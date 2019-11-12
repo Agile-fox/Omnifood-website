@@ -2,10 +2,10 @@
 
 <a href="https://agile-fox.github.io/Omnifood-website/" target="_blank">Live view</a>
 
-<b>Description<b>
+Description
 First website I coded with pure code during online course.
   
-<b>Used</b>
+Used
 -html
 -css
 -js
